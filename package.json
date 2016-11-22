@@ -1,0 +1,23 @@
+{
+  "name": "semixor",
+  "version": "1.0.0",
+  "description": "Real time Socket.IO/WebRTC based framework for creating your own Live web apps.",
+  "main": "livedesk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semixor/LiveDesk.git"
+  },
+  "author": "Serhiy Kamyshny",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/semixor/LiveDesk/issues"
+  },
+  "homepage": "https://github.com/semixor/LiveDesk#readme",
+  "dependencies": {
+    "shortid": "^2.2.6",
+    "uuid": "^3.0.0"
+  }
+}
